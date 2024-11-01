@@ -7,9 +7,9 @@ on:
       - main
 
 env:
-  GKE_PROJECT_ID: jokr-gke-prj-dev-1a71
-  GOV_PROJECT_ID: jokr-gov-prj-dev
-  GOV_PROJECT_NUMBER: 28552787857
+  GKE_PROJECT_ID: gke-prj-dev-b990
+  GOV_PROJECT_ID: jokr-gov2-prj-dev
+  GOV_PROJECT_NUMBER: 290505446916
   CLUSTER: jokr-gke-cluster
   CLUSTER_REGION: us-central1
 
