@@ -10,7 +10,7 @@ env:
   GKE_PROJECT_ID: gke-prj-dev-b990
   GOV_PROJECT_ID: jokr-gov2-prj-dev
   GOV_PROJECT_NUMBER: 290505446916
-  CLUSTER: jokr-gke
+  CLUSTER: joker-gke
   CLUSTER_REGION: us-central1
 
   REPOSITORY: jokr-repository
